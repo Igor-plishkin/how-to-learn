@@ -136,9 +136,6 @@
 .table__cell{
   width: 250px;
   margin-top: 60px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: 400;
 }
 .table__heading{
   margin: 0;
@@ -146,11 +143,12 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
-  margin-bottom: 20px;
 }
-.table__source{
-  margin-top: 20px;
-  display: block;
+.table__text{
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 400;
 }
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
