@@ -1,0 +1,5 @@
+/* Применил более специфичный селектор, т.к. section-title ниже в index.css */
+.section-title.techniques__title{
+  margin-bottom: 20px;
+}
+

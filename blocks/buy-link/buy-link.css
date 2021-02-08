@@ -1,0 +1,13 @@
+.buy-link{
+  color: #2f80ed;
+  text-decoration: none;
+  transition: opacity .5s;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: 400;
+  display: inline-block;
+  height: fit-content;
+}
+.buy-link:hover{
+  opacity: .5;
+}
